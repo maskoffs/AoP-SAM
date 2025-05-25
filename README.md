@@ -13,6 +13,12 @@ with torch.autocast(device_type='cuda', dtype=torch.float16, enabled=True)
 
 
 
+#### Model Weight
+
+Model weights have been uploaded to **10.5281/zenodo.15509422**. You can download the weights of AoP-SAM using ViT-B, ViT-L, and ViT-H as encoders.
+
+
+
 #### Citation
 
 ```
